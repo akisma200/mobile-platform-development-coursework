@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UK Earthquakes!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="location">Location:</string>
+    <string name="Coordinates">Coordinates:</string>
+    <string name="time">Time:</string>
+    <string name="date">Date:</string>
+    <string name="magnitude">Magnitude:</string>
+    <string name="depth">Depth:</string>
+</resources>
+    <!--Andrew Kismali S1709871-->

@@ -1,0 +1,1 @@
+https://github.com/akisma200/mobile-platform-development-coursework/tree/master/app/build/outputs/apk/release

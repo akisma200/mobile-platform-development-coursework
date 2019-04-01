@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Apr 01 21:19:59 BST 2019
+0.baseType=DIRECTORY
+0.base=E\:\\mpdcwkearthquakeapp\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes.dex
+0.set=DEX
+count=1

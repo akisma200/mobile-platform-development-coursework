@@ -1,0 +1,268 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:3:1-58:12
+INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:3:1-58:12
+INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:3:1-58:12
+INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:3:1-58:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\37d2794646a3f6bf409b0f2183faca6d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\0ec9946d0d183a4529f99a17da642c56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\de3ce0225800b8ece5d5681c9a7a9065\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\457ffcac1329399aeb413dba85e9180d\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dc40ccb650cb4a9435fbb36c9a774234\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\f43caed5f29a41861824309af5eab404\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\c84e8d9a987620c332dc125522fd3dce\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0a4d7fef9d6974037b17a14bb23b3f4b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9ccbe877283a78f255c56e10fa488d60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b1f3392abdb09b6f48e96dec557076e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\5dfce2a8ad0c578d1d388749735d2bd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\783f1cee3a99dddb290d6a97b36b31e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\27f674a97722837d19d674f03e18e393\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c71b6ca980f831284a86d74a87250919\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\2c2be1e9e4e87d25067800ce0a364367\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b9ea5f937bd4d3416a329d5eb88b6be6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\27ad9a59beff893d647c344ec66db0bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\91a715bbcdfcdb1702171222a58bd625\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a26f95922097a046b07ad0a7135b7903\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5884b6a338da27f44c7037fdec39b847\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\26b4f70301608c114046a6a32215b58c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1f7b3b585acd674b37ca84d37e031e6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6421de442d9991c6e1c4b4bf2e6fc1bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4fb8f7ae3b5a6f8ad4a463fd216726b7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cda215d37bed36b7f1c511450ac56745\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\804dbd2f6ae47a91beec2d38b4c25061\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\08d8488738889cc8d28f014195a07719\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\25a6bb0b36c47da4c26d8763429dca47\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2cf0700c656fd62af8ecc8727682d9ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\239d70ab39593ddfd33c94c59f28c63c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\0109f30e98b74c06c3f1fd1d8d69b2f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e98bbbf654af744eb41960229fd23a19\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e03618ac0bc0fe3ce6ceb06d18d86c88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\45cc9802f0c0aba7cd22c4f06292922a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bfba1f167ad70f00e66a3284fdf04238\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\63b9531d0b003acc196bd5dcc9cf32b9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e1ac249b036358421d62e9f2d3580954\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:3:1-58:12
+INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:3:1-58:12
+INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:3:1-58:12
+	package
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:3:1-58:12
+		INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:3:1-58:12
+		INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\457ffcac1329399aeb413dba85e9180d\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\457ffcac1329399aeb413dba85e9180d\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:12:22-64
+application
+ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:14:5-56:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\37d2794646a3f6bf409b0f2183faca6d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\37d2794646a3f6bf409b0f2183faca6d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\de3ce0225800b8ece5d5681c9a7a9065\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\de3ce0225800b8ece5d5681c9a7a9065\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\457ffcac1329399aeb413dba85e9180d\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\457ffcac1329399aeb413dba85e9180d\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dc40ccb650cb4a9435fbb36c9a774234\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dc40ccb650cb4a9435fbb36c9a774234\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\f43caed5f29a41861824309af5eab404\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\f43caed5f29a41861824309af5eab404\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\c84e8d9a987620c332dc125522fd3dce\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\c84e8d9a987620c332dc125522fd3dce\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0a4d7fef9d6974037b17a14bb23b3f4b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0a4d7fef9d6974037b17a14bb23b3f4b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4fb8f7ae3b5a6f8ad4a463fd216726b7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4fb8f7ae3b5a6f8ad4a463fd216726b7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cda215d37bed36b7f1c511450ac56745\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cda215d37bed36b7f1c511450ac56745\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\804dbd2f6ae47a91beec2d38b4c25061\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\804dbd2f6ae47a91beec2d38b4c25061\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cda215d37bed36b7f1c511450ac56745\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:18:9-54
+	android:configChanges
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:22:9-70
+	android:icon
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:20:9-40
+	android:usesCleartextTraffic
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:21:9-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:32:9-34:55
+	android:value
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:34:13-52
+	android:name
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:33:13-58
+uses-library#org.apache.http.legacy
+ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\457ffcac1329399aeb413dba85e9180d\AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\457ffcac1329399aeb413dba85e9180d\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:37:13-50
+activity#com.mpd_cwk_earthquake_app.MapsActivity
+ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:40:9-42:68
+	android:label
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:41:13-41
+activity#com.mpd_cwk_earthquake_app.MainActivity
+ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:43:9-55:20
+	android:configChanges
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:45:13-59
+	android:name
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:43:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml:53:27-74
+uses-sdk
+INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml
+INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\37d2794646a3f6bf409b0f2183faca6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\37d2794646a3f6bf409b0f2183faca6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\0ec9946d0d183a4529f99a17da642c56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\0ec9946d0d183a4529f99a17da642c56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\de3ce0225800b8ece5d5681c9a7a9065\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\de3ce0225800b8ece5d5681c9a7a9065\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\457ffcac1329399aeb413dba85e9180d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\457ffcac1329399aeb413dba85e9180d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dc40ccb650cb4a9435fbb36c9a774234\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dc40ccb650cb4a9435fbb36c9a774234\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\f43caed5f29a41861824309af5eab404\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\f43caed5f29a41861824309af5eab404\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\c84e8d9a987620c332dc125522fd3dce\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\c84e8d9a987620c332dc125522fd3dce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0a4d7fef9d6974037b17a14bb23b3f4b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0a4d7fef9d6974037b17a14bb23b3f4b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9ccbe877283a78f255c56e10fa488d60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9ccbe877283a78f255c56e10fa488d60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b1f3392abdb09b6f48e96dec557076e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b1f3392abdb09b6f48e96dec557076e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\5dfce2a8ad0c578d1d388749735d2bd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\5dfce2a8ad0c578d1d388749735d2bd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\783f1cee3a99dddb290d6a97b36b31e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\783f1cee3a99dddb290d6a97b36b31e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\27f674a97722837d19d674f03e18e393\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\27f674a97722837d19d674f03e18e393\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c71b6ca980f831284a86d74a87250919\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c71b6ca980f831284a86d74a87250919\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\2c2be1e9e4e87d25067800ce0a364367\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\2c2be1e9e4e87d25067800ce0a364367\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b9ea5f937bd4d3416a329d5eb88b6be6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\b9ea5f937bd4d3416a329d5eb88b6be6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\27ad9a59beff893d647c344ec66db0bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\27ad9a59beff893d647c344ec66db0bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\91a715bbcdfcdb1702171222a58bd625\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\91a715bbcdfcdb1702171222a58bd625\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a26f95922097a046b07ad0a7135b7903\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a26f95922097a046b07ad0a7135b7903\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5884b6a338da27f44c7037fdec39b847\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5884b6a338da27f44c7037fdec39b847\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\26b4f70301608c114046a6a32215b58c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\26b4f70301608c114046a6a32215b58c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1f7b3b585acd674b37ca84d37e031e6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1f7b3b585acd674b37ca84d37e031e6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6421de442d9991c6e1c4b4bf2e6fc1bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6421de442d9991c6e1c4b4bf2e6fc1bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4fb8f7ae3b5a6f8ad4a463fd216726b7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4fb8f7ae3b5a6f8ad4a463fd216726b7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cda215d37bed36b7f1c511450ac56745\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cda215d37bed36b7f1c511450ac56745\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\804dbd2f6ae47a91beec2d38b4c25061\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\804dbd2f6ae47a91beec2d38b4c25061\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\08d8488738889cc8d28f014195a07719\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\08d8488738889cc8d28f014195a07719\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\25a6bb0b36c47da4c26d8763429dca47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\25a6bb0b36c47da4c26d8763429dca47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2cf0700c656fd62af8ecc8727682d9ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2cf0700c656fd62af8ecc8727682d9ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\239d70ab39593ddfd33c94c59f28c63c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\239d70ab39593ddfd33c94c59f28c63c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\0109f30e98b74c06c3f1fd1d8d69b2f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\0109f30e98b74c06c3f1fd1d8d69b2f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e98bbbf654af744eb41960229fd23a19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e98bbbf654af744eb41960229fd23a19\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e03618ac0bc0fe3ce6ceb06d18d86c88\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e03618ac0bc0fe3ce6ceb06d18d86c88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\45cc9802f0c0aba7cd22c4f06292922a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\45cc9802f0c0aba7cd22c4f06292922a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bfba1f167ad70f00e66a3284fdf04238\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bfba1f167ad70f00e66a3284fdf04238\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\63b9531d0b003acc196bd5dcc9cf32b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\63b9531d0b003acc196bd5dcc9cf32b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e1ac249b036358421d62e9f2d3580954\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e1ac249b036358421d62e9f2d3580954\AndroidManifest.xml:20:5-44
+INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml
+INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0a4d7fef9d6974037b17a14bb23b3f4b\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml
+		ADDED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\mpdcwkearthquakeapp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\457ffcac1329399aeb413dba85e9180d\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\457ffcac1329399aeb413dba85e9180d\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\457ffcac1329399aeb413dba85e9180d\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\457ffcac1329399aeb413dba85e9180d\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\457ffcac1329399aeb413dba85e9180d\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dc40ccb650cb4a9435fbb36c9a774234\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dc40ccb650cb4a9435fbb36c9a774234\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dc40ccb650cb4a9435fbb36c9a774234\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\dc40ccb650cb4a9435fbb36c9a774234\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\c84e8d9a987620c332dc125522fd3dce\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\c84e8d9a987620c332dc125522fd3dce\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\c84e8d9a987620c332dc125522fd3dce\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0a4d7fef9d6974037b17a14bb23b3f4b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4fb8f7ae3b5a6f8ad4a463fd216726b7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4fb8f7ae3b5a6f8ad4a463fd216726b7\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0a4d7fef9d6974037b17a14bb23b3f4b\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\AKISMA200\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0a4d7fef9d6974037b17a14bb23b3f4b\AndroidManifest.xml:27:13-51
